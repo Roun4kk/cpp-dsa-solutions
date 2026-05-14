@@ -37,11 +37,49 @@ This repository contains:
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ```text
-Arrays/
-Graphs/
-Dynamic Programming/
-Greedy/
-Trees/
+leetcode-dsa-solutions/
+│
+├── Arrays/
+│   ├── Two Sum.cpp
+│   ├── Best Time to Buy and Sell Stock.cpp
+│   └── Product of Array Except Self.cpp
+│
+├── Binary Search/
+│   ├── Binary Search.cpp
+│   ├── Search in Rotated Sorted Array.cpp
+│   └── Koko Eating Bananas.cpp
+│
+├── Dynamic Programming/
+│   ├── 1D DP/
+│   ├── 2D DP/
+│   ├── Digit DP/
+│   └── Bitmask DP/
+│
+├── Graphs/
+│   ├── BFS/
+│   ├── DFS/
+│   ├── Dijkstra/
+│   ├── DSU/
+│   └── Topological Sort/
+│
+├── Greedy/
+├── Linked List/
+├── Sliding Window/
+├── Stack & Queue/
+├── Trees/
+├── Tries/
+├── Two Pointers/
+│
+├── Notes/
+│   ├── Kadane Algorithm.md
+│   ├── Monotonic Stack.md
+│   ├── Digit DP.md
+│   ├── Dijkstra.md
+│   └── Union Find.md
+│
+├── README.md
+└── LICENSE
+```
