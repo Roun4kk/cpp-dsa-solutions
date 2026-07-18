@@ -1,17 +1,11 @@
-# Find Greatest Common Divisor of Array
+// LeetCode
+// Find Greatest Common Divisor of Array
+// Difficulty: Easy
+// Topics: Math, Array, Number Theory (GCD)
 
-**Platform:** LeetCode  
-**Difficulty:** Easy  
-**Topics:** Math, Array, Number Theory (GCD)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
-## Complexity
-
-- **Time:** O(n)
-- **Space:** O(1)
-
-## Code
-
-```cpp
 class Solution {
 public:
     int gcd(int a, int b) {
@@ -27,4 +21,3 @@ public:
         return gcd(l, r);
     }
 };
-```
